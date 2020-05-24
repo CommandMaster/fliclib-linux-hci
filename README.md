@@ -11,7 +11,7 @@
   **action location**
    in python/action.py    
    action.py will be import in test_client.py
-   if loop recognizes button press and executes action method
+   if loop recognizes button press it executes the action.py method
     
   
 
