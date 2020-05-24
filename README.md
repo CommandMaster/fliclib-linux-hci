@@ -7,6 +7,11 @@
     -Windows
       python3
       npm, http-server https://www.npmjs.com/package/http-server
+      
+  **action location**
+   in python/action.py    
+   action.py will be import in test_client.py
+   if loop recognizes button press and executes action method
     
   
 
