@@ -1,3 +1,16 @@
+# windows flic button action
+  **Requirements**
+  
+    -Linux subsystem
+      python3
+    
+    -Windows
+      python3
+      npm, http-server https://www.npmjs.com/package/http-server
+    
+  
+
+
 # fliclib-windows
 
 This is a Beta release of the Flic TCP socket server program that will later be integrated in the final Flic app for Windows. This server supports a simple, well-documented, API over a TCP socket to allow you to add new clients that can scan and connect Flic buttons and receive their button events. We decided to release a Beta version of this so that application developers can go ahed and start creating their own applications at this time.
