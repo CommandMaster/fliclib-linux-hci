@@ -9,11 +9,13 @@
       npm, http-server https://www.npmjs.com/package/http-server
       
   **action location**
+  
    in python/action.py    
    action.py will be import in test_client.py
    if loop recognizes button press it executes the action.py method
     
-  **asetup of button**
+  **setup of button**
+  
   just open ipofpc:8080
   
 
