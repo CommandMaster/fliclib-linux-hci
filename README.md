@@ -13,6 +13,8 @@
    action.py will be import in test_client.py
    if loop recognizes button press it executes the action.py method
     
+  **asetup of button**
+  just open ipofpc:8080
   
 
 
